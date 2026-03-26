@@ -1,0 +1,9 @@
+dash>=2.17
+dash-bootstrap-components>=1.6
+flask-caching>=2.3
+earthengine-api>=0.1.400
+geemap>=0.33
+google-auth>=2.29
+plotly>=5.22
+pandas>=2.2
+gunicorn>=22.0          # for production deployment
